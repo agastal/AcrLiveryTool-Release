@@ -7,6 +7,8 @@ across the panels, and export a livery the game loads.
 
 ![ACR Livery Tool](media/editor-en.png)
 
+The full guide is in the **[wiki](https://github.com/agastal/AcrLiveryTool-Release/wiki)**: installation, painting, layers, export, projects, shortcuts, troubleshooting.
+
 - All 18 cars of the game, with their own livery as a starting point and the official UV templates as a guide.
 - Layers with masks, blend modes and their own roughness, metallic and clear coat.
 - Brushes that work in 3D (no seams between panels): round, spray, stamps; left/right symmetry.
@@ -36,6 +38,10 @@ from the car list in the top bar, *Prepare the cars again from the game*.
 A **new** livery folder is seen by the game only when it starts: restart the game after the first export.
 Exporting again over the same name shows up in the game as soon as you select another livery and come back.
 
+## Racing with your livery
+
+ACRK Challenge runs weekly challenges and standings for Assetto Corsa Rally drivers: [see how to join](https://ch.acrkhotlap.workers.dev/invite?lang=en). The app links there too (*App* menu, and after an export).
+
 ## Updates
 
 The app checks this repository for a newer release at start and once a day (it can be switched off in the
@@ -48,6 +54,8 @@ The app sends nothing about you anywhere. It connects only to:
 - **GitHub, this repository**: to see whether there is a newer release, and to download it when you ask;
 - **GitHub, [WorkingRobot/OodleUE](https://github.com/WorkingRobot/OodleUE)**: once, to download the
   decompression library the game's files need (kept in `%LOCALAPPDATA%\acr-livery-tool`).
+
+The ACRK Challenge links (*App* menu, after an export) only open that page in your browser when you click them.
 
 It reads the game's files where Steam installed them and writes only to its own folder, to the liveries
 folder above and to the project files you choose to save.

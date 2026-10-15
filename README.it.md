@@ -7,6 +7,8 @@ numeri e scritte a cavallo dei pannelli e si esporta una livrea che il gioco car
 
 ![ACR Livery Tool](media/editor-it.png)
 
+La guida completa è nel **[wiki](https://github.com/agastal/AcrLiveryTool-Release/wiki/Installazione)**: installazione, pittura, livelli, esportazione, progetti, scorciatoie, risoluzione dei problemi.
+
 - Tutte le 18 auto del gioco, con la loro livrea come punto di partenza e i template UV ufficiali come guida.
 - Livelli con maschere, modi di fusione e rugosità, metallo e clear coat propri.
 - Pennelli che lavorano in 3D (nessuna cucitura tra i pannelli): tondo, spruzzo, timbri; simmetria
@@ -37,6 +39,10 @@ dall'elenco delle auto nella barra in alto, *Prepara di nuovo le auto dal gioco*
 Una cartella di livrea **nuova** il gioco la vede solo all'avvio: dopo la prima esportazione riavvia il gioco.
 Riesportando con lo stesso nome, nel gioco basta scegliere un'altra livrea e tornare indietro.
 
+## In gara con la tua livrea
+
+ACRK Challenge organizza sfide settimanali e classifiche per i piloti di Assetto Corsa Rally: [scopri come partecipare](https://ch.acrkhotlap.workers.dev/invite?lang=it). Anche l'app ci porta (menu *App*, e dopo un'esportazione).
+
 ## Aggiornamenti
 
 L'app controlla in questo repository se c'è una versione nuova all'avvio e una volta al giorno (si può
@@ -49,6 +55,9 @@ L'app non invia niente che ti riguardi. Si collega solo a:
 - **GitHub, questo repository**: per sapere se c'è una versione nuova e per scaricarla quando lo chiedi;
 - **GitHub, [WorkingRobot/OodleUE](https://github.com/WorkingRobot/OodleUE)**: una volta, per scaricare la
   libreria di decompressione che serve a leggere i file del gioco (tenuta in `%LOCALAPPDATA%\acr-livery-tool`).
+
+I collegamenti ad ACRK Challenge (menu *App*, dopo un'esportazione) aprono quella pagina nel browser solo quando ci
+clicchi.
 
 Legge i file del gioco dove li ha installati Steam e scrive solo nella sua cartella, nella cartella delle
 livree indicata sopra e nei file di progetto che scegli di salvare.

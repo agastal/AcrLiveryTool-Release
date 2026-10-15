@@ -1,5 +1,18 @@
 # Novità
 
+## [0.3.0] - 2026-10-15
+
+Il pulsante di esportazione passa nella barra laterale, e l'app indica dove correre con la tua livrea.
+
+### Novità
+- *App → ACRK Challenge: gare e classifiche…* apre l'invito di ACRK Challenge nel browser, nella lingua
+  dell'app: sfide settimanali e classifiche per i piloti di Assetto Corsa Rally.
+- Dopo un'esportazione, la finestra di esportazione propone di portare la livrea in gara lì.
+
+### Modifiche
+- *Esporta nel gioco…* ora è l'ultimo pulsante della barra laterale, sotto il base coat, invece di un
+  pulsante nella barra in alto. *File → Esporta nel gioco…* e Ctrl+E funzionano come prima.
+
 ## [0.2.0] - 2026-10-15
 
 La prima versione pubblica: un editor 3D di livree per tutte le auto di Assetto Corsa Rally.
