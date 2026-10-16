@@ -43,6 +43,10 @@ Exporting again over the same name shows up in the game as soon as you select an
 
 ACRK Challenge runs weekly challenges and standings for Assetto Corsa Rally drivers: [see how to join](https://ch.acrkhotlap.workers.dev/invite?lang=en). The app links there too (*App* menu, and after an export).
 
+## Support
+
+ACR Livery Tool is free. If you like it, you can support it with a donation on [PayPal](https://www.paypal.com/paypalme/agastalink).
+
 ## Updates
 
 The app checks this repository for a newer release at start and once a day (it can be switched off in the

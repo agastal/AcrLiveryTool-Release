@@ -44,6 +44,10 @@ Riesportando con lo stesso nome, nel gioco basta scegliere un'altra livrea e tor
 
 ACRK Challenge organizza sfide settimanali e classifiche per i piloti di Assetto Corsa Rally: [scopri come partecipare](https://ch.acrkhotlap.workers.dev/invite?lang=it). Anche l'app ci porta (menu *App*, e dopo un'esportazione).
 
+## Sostienila
+
+ACR Livery Tool è gratuita. Se ti piace, puoi sostenerla con una donazione su [PayPal](https://www.paypal.com/paypalme/agastalink).
+
 ## Aggiornamenti
 
 L'app controlla in questo repository se c'è una versione nuova all'avvio e una volta al giorno (si può
