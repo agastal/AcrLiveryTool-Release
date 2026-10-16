@@ -30,8 +30,9 @@ Requirements: Windows 10 or 11 (64-bit) and Assetto Corsa Rally installed throug
 ## First start: preparing the cars
 
 The app ships **no part of the game**. On first start it reads the cars from your own installation and keeps
-them in `%LOCALAPPDATA%\acr-livery-tool\cars` (about 5 minutes and 700 MB). Do it again after a game update
-from the car list in the top bar, *Prepare the cars again from the game*.
+them in `%LOCALAPPDATA%\acr-livery-tool\cars` (about 5 minutes and 700 MB). It finds the game in your Steam
+libraries; if it does not, *Choose the game folder…* picks it by hand. Do it again after a game update from the
+car list in the top bar, *Prepare the cars again from the game*.
 
 ## Using an exported livery
 
@@ -57,8 +58,10 @@ The app sends nothing about you anywhere. It connects only to:
 
 The ACRK Challenge links (*App* menu, after an export) only open that page in your browser when you click them.
 
-It reads the game's files where Steam installed them and writes only to its own folder, to the liveries
-folder above and to the project files you choose to save.
+It reads the game's files where Steam installed them, or in the folder you choose. It writes only to its own
+folders (`%LOCALAPPDATA%\acr-livery-tool` for the cars; `%APPDATA%\com.acrliverytool.app` and
+`%LOCALAPPDATA%\com.acrliverytool.app` for its settings: language, last car, game folder, the window's place), to
+the liveries folder above and to the project files you choose to save.
 
 ## Uninstall
 

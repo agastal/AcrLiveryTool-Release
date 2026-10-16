@@ -1,5 +1,19 @@
 # Novità
 
+## [0.4.0] - 2026-10-16
+
+Un aspetto nuovo, la cartella del gioco si può scegliere a mano e la finestra si apre dove l'avevi lasciata.
+
+### Novità
+- *Preparare le auto* mostra la cartella del gioco da cui legge, e *Scegli la cartella del gioco…* ne sceglie
+  un'altra, per esempio quando il gioco non si trova nelle tue librerie di Steam. L'app ricorda la scelta.
+- La finestra si apre dove l'avevi lasciata, con la stessa dimensione, e massimizzata se lo era.
+
+### Modifiche
+- Un nuovo colore arancione per i pulsanti attivi e gli slider.
+- I pulsanti dei livelli sono icone: + Pittura, + Testo, + Immagine, + Texture, Duplica ed Elimina. Il loro
+  nome compare passandoci sopra con il mouse.
+
 ## [0.3.0] - 2026-10-15
 
 Il pulsante di esportazione passa nella barra laterale, e l'app indica dove correre con la tua livrea.

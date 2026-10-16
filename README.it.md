@@ -31,7 +31,8 @@ Serve Windows 10 o 11 (64 bit) e Assetto Corsa Rally installato con Steam.
 ## Primo avvio: preparare le auto
 
 L'app **non contiene niente del gioco**. Al primo avvio legge le auto dalla tua installazione e le tiene in
-`%LOCALAPPDATA%\acr-livery-tool\cars` (circa 5 minuti e 700 MB). Dopo un aggiornamento del gioco rifallo
+`%LOCALAPPDATA%\acr-livery-tool\cars` (circa 5 minuti e 700 MB). Trova il gioco nelle tue librerie di Steam;
+se non lo trova, *Scegli la cartella del gioco…* lo indica a mano. Dopo un aggiornamento del gioco rifallo
 dall'elenco delle auto nella barra in alto, *Prepara di nuovo le auto dal gioco*.
 
 ## Usare una livrea esportata
@@ -59,8 +60,10 @@ L'app non invia niente che ti riguardi. Si collega solo a:
 I collegamenti ad ACRK Challenge (menu *App*, dopo un'esportazione) aprono quella pagina nel browser solo quando ci
 clicchi.
 
-Legge i file del gioco dove li ha installati Steam e scrive solo nella sua cartella, nella cartella delle
-livree indicata sopra e nei file di progetto che scegli di salvare.
+Legge i file del gioco dove li ha installati Steam, o nella cartella che scegli. Scrive solo nelle sue cartelle
+(`%LOCALAPPDATA%\acr-livery-tool` per le auto; `%APPDATA%\com.acrliverytool.app` e
+`%LOCALAPPDATA%\com.acrliverytool.app` per le impostazioni: lingua, ultima auto, cartella del gioco, posizione
+della finestra), nella cartella delle livree indicata sopra e nei file di progetto che scegli di salvare.
 
 ## Disinstallazione
 
