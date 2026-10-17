@@ -1,5 +1,13 @@
 # Novità
 
+## [0.5.1] - 2026-10-17
+
+Il banner sui vetri della Lancia Delta HF Integrale Evo.
+
+### Correzioni
+- Lancia Delta HF Integrale Evo: il banner sui vetri si può dipingere. **Vetri** non mostrava niente su cui
+  dipingere; ora pennello, testi e immagini vanno sul parabrezza e il banner viene esportato con la livrea.
+
 ## [0.5.0] - 2026-10-17
 
 Pennelli pronti, pressione della penna, uno strumento per dipingere parte per parte, e le livree gestite dall'app.

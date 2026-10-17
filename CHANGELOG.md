@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.5.1] - 2026-10-17
+
+The window banner of the Lancia Delta HF Integrale Evo.
+
+### Fixed
+- Lancia Delta HF Integrale Evo: the window banner can be painted. **Windows** showed nothing to paint on; now
+  brush, text and images go on the windscreen and the banner is exported with the livery.
+
 ## [0.5.0] - 2026-10-17
 
 Ready-made brushes, pen pressure, a tool to paint part by part, and your liveries managed from the app.
