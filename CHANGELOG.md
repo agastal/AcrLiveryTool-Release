@@ -1,5 +1,29 @@
 # Changelog
 
+## [0.5.0] - 2026-10-17
+
+Ready-made brushes, pen pressure, a tool to paint part by part, and your liveries managed from the app.
+
+### New
+- *File → Manage the liveries in the game…*: each car's liveries with their icon, date and size, and how many
+  of the 25 are in use. Open a livery's folder, turn it off and on (the game skips it while it is off), or
+  move it to the Recycle Bin.
+- **Parts** tool (P): click a part of the car (hood, a door, a bumper…) to show the selected layer only
+  there, Shift+click to hide it. *Whole part* takes all of it, *The other side too* the mirrored part as well.
+- Ten ready-made brushes in the *Brush* menu, with a preview of each: hard round, soft round, spray, chalk, bristles,
+  marker, calligraphy nib, spatter, stipple and stars. The colour, radius and opacity you set stay.
+- With a drawing tablet, *Radius follows pen pressure*, down to a *Minimum radius* you choose.
+- A *View* menu: *UV view* (U), and front, side and top views. The keys 1, 3, 7 (Ctrl for the opposite
+  side) and Alt + drag turn the car to them.
+
+### Changed
+- Painting is much faster on laptops with two graphics cards: the app now uses the dedicated one.
+- *Body* / *Windows* and *Export to the game…* are in the top bar; the tools are icons, named when you hover
+  them.
+- After an export, *Export* stays off until you change the name or the stickers box, so a livery is not
+  written twice by mistake.
+- A new app icon.
+
 ## [0.4.0] - 2026-10-16
 
 A new look, the game's folder can be chosen by hand, and the window opens where you left it.

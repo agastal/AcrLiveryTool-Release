@@ -1,5 +1,30 @@
 # Novità
 
+## [0.5.0] - 2026-10-17
+
+Pennelli pronti, pressione della penna, uno strumento per dipingere parte per parte, e le livree gestite dall'app.
+
+### Novità
+- *File → Gestisci le livree nel gioco…*: le livree di ogni auto con icona, data e dimensione, e quante delle 25
+  sono attive. Apri la cartella di una livrea, disattivala e riattivala (il gioco la ignora finché è disattivata),
+  o spostala nel Cestino.
+- Strumento **Parti** (P): clic su una parte dell'auto (cofano, una portiera, un paraurti…) per mostrare solo lì
+  il livello selezionato, Maiusc+clic per nasconderla. *Parte intera* la prende tutta, *Anche l'altro lato* anche
+  la parte speculare.
+- Dieci pennelli pronti nel menu *Pennello*, ognuno con un'anteprima: tondo duro, tondo morbido, spruzzo, gesso, setole,
+  pennarello, pennino calligrafico, schizzi, puntinato e stelle. Colore, raggio e opacità che hai scelto restano.
+- Con una tavoletta grafica, *Il raggio segue la pressione della penna*, fino a un *Raggio minimo* a scelta.
+- Un menu *Vista*: *Vista UV* (U), e le viste davanti, lato e sopra. I tasti 1, 3, 7 (con Ctrl il lato opposto)
+  e Alt + trascinamento girano l'auto su di esse.
+
+### Modifiche
+- Dipingere è molto più veloce sui portatili con due schede grafiche: l'app ora usa quella dedicata.
+- *Carrozzeria* / *Vetri* ed *Esporta nel gioco…* sono nella barra in alto; gli strumenti sono icone, con il
+  nome passandoci sopra con il mouse.
+- Dopo un'esportazione, *Esporta* resta spento finché non cambi il nome o la casella degli adesivi, così una
+  livrea non si scrive due volte per sbaglio.
+- Una nuova icona dell'app.
+
 ## [0.4.0] - 2026-10-16
 
 Un aspetto nuovo, la cartella del gioco si può scegliere a mano e la finestra si apre dove l'avevi lasciata.
