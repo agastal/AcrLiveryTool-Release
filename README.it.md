@@ -11,9 +11,9 @@ La guida completa è nel **[wiki](https://github.com/agastal/AcrLiveryTool-Relea
 
 - Tutte le 18 auto del gioco, con la loro livrea come punto di partenza e i template UV ufficiali come guida.
 - Livelli con maschere, modi di fusione e rugosità, metallo e clear coat propri.
-- Pennelli che lavorano in 3D (nessuna cucitura tra i pannelli): tondo, spruzzo, timbri; simmetria
+- Pennelli che lavorano in 3D (nessuna cucitura tra i pannelli): tondo, spruzzo, gesso, fibra di carbonio, timbri; simmetria
   sinistra/destra.
-- Immagini e testi proiettati sull'auto, se vuoi anche sull'altro lato.
+- Immagini (PNG, JPG, SVG) e testi proiettati sull'auto, se vuoi anche sull'altro lato.
 - Annulla/ripeti, file di progetto (`.acrlivery`).
 - In italiano, inglese, francese, tedesco e spagnolo.
 - **Esporta** scrive la livrea in `Documenti\My Games\acr\Liveries\<auto>\<nome>\` nel formato del gioco.

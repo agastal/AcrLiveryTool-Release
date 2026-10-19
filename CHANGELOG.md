@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.8.0] - 2026-10-19
+
+Carbon fibre, SVG logos, and images you resize and turn right on the car.
+
+### New
+- **Carbon fibre** brush (and the **Carbon** tip): paints a woven carbon fibre in the brush's colour (dark grey for
+  classic carbon); **Grain** sets the width of a strand. With the Carbon tip, **Fill with the brush colour** fills
+  the layer with carbon: with the **Parts** tool, a carbon bonnet takes two clicks.
+- **SVG** files for **+ Image**, **+ Texture** and the brush stamps (**Load…**): logos stay sharp at any size, and
+  projects keep the SVG itself.
+- **Move** tool: **Shift** + drag on the car resizes the selected image or text, **Ctrl** + drag turns it (press
+  Shift too for steps of 15°). Each is one step of **Undo**.
+
 ## [0.7.1] - 2026-10-19
 
 Painting the bonnet and the doors of the Polo, the Škoda and the 206.

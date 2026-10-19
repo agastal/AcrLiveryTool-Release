@@ -1,5 +1,19 @@
 # Novità
 
+## [0.8.0] - 2026-10-19
+
+Fibra di carbonio, loghi SVG, e immagini che si ridimensionano e ruotano direttamente sull'auto.
+
+### Novità
+- Pennello **Fibra di carbonio** (e punta **Carbonio**): dipinge una trama di fibra di carbonio nel colore del
+  pennello (grigio scuro per il carbonio classico); **Grana** regola la larghezza di un filo. Con la punta Carbonio,
+  **Riempi col colore del pennello** riempie il livello di carbonio: con lo strumento **Parti**, un cofano in carbonio
+  in due clic.
+- File **SVG** per **+ Immagine**, **+ Texture** e i timbri del pennello (**Carica…**): i loghi restano nitidi a
+  qualsiasi dimensione, e i progetti conservano l'SVG stesso.
+- Strumento **Sposta**: **Maiusc** + trascina sull'auto ridimensiona l'immagine o il testo selezionato, **Ctrl** +
+  trascina lo ruota (premendo anche Maiusc, a passi di 15°). Ognuno è un passo di **Annulla**.
+
 ## [0.7.1] - 2026-10-19
 
 Si dipingono cofano e portiere di Polo, Škoda e 206.

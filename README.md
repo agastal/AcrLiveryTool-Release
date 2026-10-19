@@ -11,8 +11,8 @@ The full guide is in the **[wiki](https://github.com/agastal/AcrLiveryTool-Relea
 
 - All 18 cars of the game, with their own livery as a starting point and the official UV templates as a guide.
 - Layers with masks, blend modes and their own roughness, metallic and clear coat.
-- Brushes that work in 3D (no seams between panels): round, spray, stamps; left/right symmetry.
-- Images and text projected on the car, mirrored to the other side if you want.
+- Brushes that work in 3D (no seams between panels): round, spray, chalk, carbon fibre, stamps; left/right symmetry.
+- Images (PNG, JPG, SVG) and text projected on the car, mirrored to the other side if you want.
 - Undo/redo, project files (`.acrlivery`).
 - In Italian, English, French, German and Spanish.
 - **Export** writes the livery into `Documents\My Games\acr\Liveries\<car>\<name>\` in the game's own format.
