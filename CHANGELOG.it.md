@@ -1,5 +1,18 @@
 # Novità
 
+## [0.7.1] - 2026-10-19
+
+Si dipingono cofano e portiere di Polo, Škoda e 206.
+
+### Modifiche
+- Durante la preparazione delle auto dal gioco (**Prepara le auto dal gioco**) una rotellina e la clessidra
+  mostrano che il lavoro è in corso.
+
+### Correzioni
+- Sulla **Volkswagen Polo GTI R5**, sulla **Škoda Fabia RS Rally2** e sulla **Peugeot 206 WRC** pennello, gomma e
+  sfumatura ora dipingono cofano, portiere e parafanghi (prima il colore finiva altrove o da nessuna parte). Anche
+  lo strumento **Parti** li seleziona correttamente. Non serve preparare di nuovo le auto.
+
 ## [0.7.0] - 2026-10-18
 
 Testo curvo, un pennello che si vede e niente più lavoro perso.

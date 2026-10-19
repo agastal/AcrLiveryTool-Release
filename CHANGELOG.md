@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.7.1] - 2026-10-19
+
+Painting the bonnet and the doors of the Polo, the Škoda and the 206.
+
+### Changed
+- While the cars are being prepared from the game (**Prepare the cars from the game**), a spinning wheel and the
+  hourglass pointer show that the work is going on.
+
+### Fixed
+- On the **Volkswagen Polo GTI R5**, the **Škoda Fabia RS Rally2** and the **Peugeot 206 WRC** the brush, the
+  eraser and the gradient now paint the hood, the doors and the fenders (before, the paint went elsewhere or
+  nowhere). The **Parts** tool picks them correctly too. No need to prepare the cars again.
+
 ## [0.7.0] - 2026-10-18
 
 Bent text, a brush you can see, and no more lost work.
