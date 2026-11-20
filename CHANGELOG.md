@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.9.0] - 2026-11-20
+
+The two Lancia Delta S4 of Assetto Corsa Rally 0.7, and two new ways to choose where a layer shows.
+
+### New
+- **Lancia Delta S4** (Group B) and **Lancia Delta S4 Evo 2** (Group S), the cars added by the game's 0.7 update,
+  with their own livery and the official templates, window banner included. If you have already prepared the cars,
+  choose **Prepare the cars again from the game…** in the car list (with the game updated to 0.7) to get them.
+- **Parts** tool, **Pen** mode: draw a closed path over the car, with corner and curved points, and the selected
+  layer shows (**Show inside**, Enter) or hides (**Hide inside**, Shift+Enter) inside it. **Visible surfaces only**
+  takes just what you see; **The other side too** mirrors it.
+- **Parts** tool, **Colour** mode: click a colour on the car and the selected layer shows where the layers under it
+  have that colour (Shift+click hides it there); **Tolerance** sets how close the colour must be.
+
 ## [0.8.0] - 2026-10-19
 
 Carbon fibre, SVG logos, and images you resize and turn right on the car.

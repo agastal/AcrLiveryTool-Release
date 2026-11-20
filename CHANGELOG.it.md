@@ -1,5 +1,19 @@
 # Novità
 
+## [0.9.0] - 2026-11-20
+
+Le due Lancia Delta S4 di Assetto Corsa Rally 0.7, e due modi nuovi per scegliere dove si vede un livello.
+
+### Novità
+- **Lancia Delta S4** (Gruppo B) e **Lancia Delta S4 Evo 2** (Gruppo S), le auto arrivate con l'aggiornamento 0.7
+  del gioco, con la loro livrea e i template ufficiali, banner sui vetri compreso. Se hai già preparato le auto,
+  scegli **Prepara di nuovo le auto dal gioco…** nell'elenco delle auto (con il gioco aggiornato alla 0.7) per averle.
+- Strumento **Parti**, modo **Penna**: disegna un percorso chiuso sopra l'auto, con punti d'angolo e curvi, e il
+  livello selezionato si vede (**Mostra dentro**, Invio) o si nasconde (**Nascondi dentro**, Maiusc+Invio) lì dentro.
+  **Solo le superfici visibili** prende solo ciò che vedi; **Anche l'altro lato** lo ripete specchiato.
+- Strumento **Parti**, modo **Colore**: clicca un colore dell'auto e il livello selezionato si vede dove i livelli
+  sotto hanno quel colore (Maiusc+clic lì lo nasconde); **Tolleranza** dice quanto deve essere vicino.
+
 ## [0.8.0] - 2026-10-19
 
 Fibra di carbonio, loghi SVG, e immagini che si ridimensionano e ruotano direttamente sull'auto.

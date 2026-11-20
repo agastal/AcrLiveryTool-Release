@@ -9,7 +9,7 @@ across the panels, and export a livery the game loads.
 
 The full guide is in the **[wiki](https://github.com/agastal/AcrLiveryTool-Release/wiki)**: installation, painting, layers, export, projects, shortcuts, troubleshooting.
 
-- All 18 cars of the game, with their own livery as a starting point and the official UV templates as a guide.
+- All 20 cars of the game, with their own livery as a starting point and the official UV templates as a guide.
 - Layers with masks, blend modes and their own roughness, metallic and clear coat.
 - Brushes that work in 3D (no seams between panels): round, spray, chalk, carbon fibre, stamps; left/right symmetry.
 - Images (PNG, JPG, SVG) and text projected on the car, mirrored to the other side if you want.

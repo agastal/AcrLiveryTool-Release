@@ -9,7 +9,7 @@ numeri e scritte a cavallo dei pannelli e si esporta una livrea che il gioco car
 
 La guida completa è nel **[wiki](https://github.com/agastal/AcrLiveryTool-Release/wiki/Installazione)**: installazione, pittura, livelli, esportazione, progetti, scorciatoie, risoluzione dei problemi.
 
-- Tutte le 18 auto del gioco, con la loro livrea come punto di partenza e i template UV ufficiali come guida.
+- Tutte le 20 auto del gioco, con la loro livrea come punto di partenza e i template UV ufficiali come guida.
 - Livelli con maschere, modi di fusione e rugosità, metallo e clear coat propri.
 - Pennelli che lavorano in 3D (nessuna cucitura tra i pannelli): tondo, spruzzo, gesso, fibra di carbonio, timbri; simmetria
   sinistra/destra.
