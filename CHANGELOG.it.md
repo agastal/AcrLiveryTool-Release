@@ -1,5 +1,18 @@
 # Novità
 
+## [0.9.1] - 2026-11-20
+
+Immagini e testi che si trovano cliccandoli sull'auto, e il lunotto della Xsara.
+
+### Novità
+- Strumento **Sposta**: un clic su un'immagine o un testo dell'auto ne seleziona il livello, evidenziato
+  nell'elenco dei livelli, e trascinando lo sposti da dove l'hai preso. Comodo quando lo stesso adesivo è
+  sull'auto tante volte.
+
+### Correzioni
+- **Citroën Xsara WRC**: il pennello, la gomma e le immagini ora arrivano sul lunotto (**Vetri**); prima il vetro
+  davanti li fermava. I vetri laterali della Xsara nel gioco non hanno banner.
+
 ## [0.9.0] - 2026-11-20
 
 Le due Lancia Delta S4 di Assetto Corsa Rally 0.7, e due modi nuovi per scegliere dove si vede un livello.

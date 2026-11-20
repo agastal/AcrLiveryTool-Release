@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.9.1] - 2026-11-20
+
+Images and texts you find by clicking them on the car, and the Xsara's rear window.
+
+### New
+- **Move** tool: a click on an image or a text on the car selects its layer, highlighted in the layer list, and a
+  drag then moves it from where you took it. Handy when the same sticker is on the car many times.
+
+### Fixed
+- **Citroën Xsara WRC**: the brush, the eraser and the images now reach the rear window (**Windows**); before, the
+  glass in front stopped them. The Xsara's side windows carry no window banner in the game.
+
 ## [0.9.0] - 2026-11-20
 
 The two Lancia Delta S4 of Assetto Corsa Rally 0.7, and two new ways to choose where a layer shows.
