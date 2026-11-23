@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.10.0] - 2026-11-23
+
+Shapes you draw and can always edit, halftone dots, and a symmetry that really mirrors.
+
+### New
+- **Shape** tool (S): draw a figure on the car with corner and curved points; when you close it, it becomes a layer
+  of its own. Select it again whenever you like to drag its points and handles or change its **Colour** and
+  **Fill**: **Solid**, **Halftone dots** (**Spacing**, **Dots**, **Fade** and **Direction**: the dots get smaller
+  across the shape), **Carbon**, **Chalk** or **Spray**. **New shape** (Esc) starts another one; **Shape's view**
+  puts back the view you drew it from. Shapes are saved in projects.
+- **Halftone dots** brush (**Halftone** tip): paints in dots, smaller towards the brush's soft edge; **Grain** is the
+  spacing between the dots. **Fill with the brush colour** fills with dots too.
+
+### Changed
+- **On the other side too (symmetry)**: an image is now a true mirror image on the other side (an arrow points
+  forward on both sides). Text stays readable; for an image with writing in it, tick **Readable on the other side
+  (not mirrored)**. In projects saved before, images with the symmetry now show mirrored on the other side.
+- With **Left/right symmetry**, stamps on the other side are mirror images too.
+- The **Parts** tool's **Pen** draws smooth edges instead of stepped ones.
+
 ## [0.9.1] - 2026-11-20
 
 Images and texts you find by clicking them on the car, and the Xsara's rear window.

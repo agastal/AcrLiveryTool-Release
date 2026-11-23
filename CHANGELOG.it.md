@@ -1,5 +1,26 @@
 # Novità
 
+## [0.10.0] - 2026-11-23
+
+Forme che disegni e puoi sempre modificare, il retino a puntini e una simmetria che specchia davvero.
+
+### Novità
+- Strumento **Forma** (S): disegna una figura sull'auto con punti d'angolo e curvi; quando la chiudi diventa un
+  livello a sé. Selezionala di nuovo quando vuoi per trascinarne punti e maniglie o cambiarne **Colore** e
+  **Riempimento**: **Pieno**, **Retino a puntini** (**Passo**, **Puntini**, **Sfumatura** e **Direzione**: i puntini
+  rimpiccioliscono attraverso la forma), **Carbonio**, **Gesso** o **Spruzzo**. **Nuova forma** (Esc) ne comincia
+  un'altra; **Vista della forma** rimette la vista da cui l'hai disegnata. Le forme si salvano nei progetti.
+- Pennello **Retino a puntini** (punta **Retino**): dipinge a puntini, più piccoli verso il bordo morbido del
+  pennello; **Grana** è la distanza tra i puntini. Anche **Riempi col colore del pennello** riempie a puntini.
+
+### Modifiche
+- **Anche sull'altro lato (simmetria)**: sull'altro lato un'immagine ora è davvero speculare (una freccia punta in
+  avanti su entrambi i fianchi). Il testo resta leggibile; per un'immagine con una scritta spunta **Sull'altro lato
+  leggibile (non speculare)**. Nei progetti salvati prima, le immagini con la simmetria ora appaiono speculari
+  sull'altro lato.
+- Con **Simmetria sinistra/destra** anche i timbri sull'altro lato sono speculari.
+- La **Penna** dello strumento **Parti** disegna bordi morbidi invece che a scalini.
+
 ## [0.9.1] - 2026-11-20
 
 Immagini e testi che si trovano cliccandoli sull'auto, e il lunotto della Xsara.
