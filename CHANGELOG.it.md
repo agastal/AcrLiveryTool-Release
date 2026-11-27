@@ -1,5 +1,23 @@
 # Novità
 
+## [0.10.2] - 2026-11-27
+
+Progetti con tante grafiche: molta meno memoria video, molto più veloci e niente più perso.
+
+### Novità
+- **File → Esci** (Alt+F4): chiude l'app, chiedendo prima di salvare le modifiche.
+
+### Modifiche
+- Immagini, testi e forme occupano molta meno memoria video: un progetto con 67 livelli è passato da circa 4,2 GB a
+  meno di 1 GB, e l'editor è diventato circa dieci volte più veloce. I progetti con pochi livelli funzionano come prima.
+- **File → Apri…** con un progetto fatto per un'altra auto passa da solo a quell'auto e lo apre (prima restava
+  sull'auto in uso e solo una riga nella barra di stato diceva perché non si era aperto niente).
+
+### Correzioni
+- Con tanti livelli, le schede video con meno memoria non riuscivano a tenerli tutti: alcuni livelli restavano vuoti
+  senza nessun avviso, e salvando venivano scritti vuoti. Ora non succede quasi più, e se la memoria video finisce
+  comunque l'app lo dice e **Salva** chiede un file nuovo invece di sovrascrivere quello aperto.
+
 ## [0.10.1] - 2026-11-27
 
 I progetti si riaprono di nuovo per intero.

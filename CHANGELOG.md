@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.10.2] - 2026-11-27
+
+Projects with many graphics: far less video memory, much faster, and nothing lost any more.
+
+### New
+- **File → Exit** (Alt+F4): closes the app, asking first to save unsaved changes.
+
+### Changed
+- Images, texts and shapes take far less video memory: a project with 67 layers went from about 4.2 GB to under 1 GB,
+  and the editor got about ten times faster with it. Projects with a few layers work as before.
+- **File → Open…** with a project made for another car switches to that car by itself and opens it (before, it
+  stayed on the car in use and only a line in the status bar said why nothing had opened).
+
+### Fixed
+- With many layers, graphics cards with less memory could not keep them all: some layers stayed empty without a
+  word, and saving then wrote them empty. Now this hardly happens, and if the video memory runs out anyway the app
+  says so, and **Save** asks for a new file instead of overwriting the open one.
+
 ## [0.10.1] - 2026-11-27
 
 Projects open whole again.
