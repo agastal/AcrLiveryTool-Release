@@ -1,5 +1,17 @@
 # Novità
 
+## [0.10.1] - 2026-11-27
+
+I progetti si riaprono di nuovo per intero.
+
+### Correzioni
+- **File → Apri…**: se un livello del progetto non si poteva leggere (per esempio un'immagine SVG con
+  un'intestazione lunga), l'apertura si fermava lì e mancavano tutti i livelli successivi, che risalvando andavano
+  persi. Ora tutti gli altri livelli si aprono; un livello illeggibile resta nell'elenco, vuoto, conserva la sua
+  immagine nel progetto e la barra di stato lo indica.
+- Le immagini SVG di un progetto vengono riconosciute anche con commenti o metadati lunghi prima del disegno. I
+  progetti salvati con le versioni precedenti si riaprono per intero: le grafiche erano già tutte nel file.
+
 ## [0.10.0] - 2026-11-23
 
 Forme che disegni e puoi sempre modificare, il retino a puntini e una simmetria che specchia davvero.

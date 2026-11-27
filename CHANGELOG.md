@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.10.1] - 2026-11-27
+
+Projects open whole again.
+
+### Fixed
+- **File → Open…**: when one layer of a project could not be read (for example an SVG image with a long header),
+  opening stopped there and every layer after it was missing, so saving again lost them. Now every other layer
+  opens; a layer that cannot be read stays in the list, empty, keeps its image in the project, and the status bar
+  names it.
+- SVG images in a project are recognised even with long comments or metadata before the drawing. Projects saved
+  with the earlier versions open whole: the graphics were in the file all along.
+
 ## [0.10.0] - 2026-11-23
 
 Shapes you draw and can always edit, halftone dots, and a symmetry that really mirrors.
